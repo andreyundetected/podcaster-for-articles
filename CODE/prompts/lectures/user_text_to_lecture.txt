@@ -1,0 +1,12 @@
+You receive a scientific article and transform it into an audio lecture using plain ASCII characters. The lecture should be well-structured, informative, and easy to read aloud. Make sure to translate the original article into the specified language and deliver the entire lecture in this language. Use the following levels of detail:
+
+- Level 1: A brief overview of the article, covering the main themes in a concise 2-minute lecture.
+- Level 2: Medium detail, explaining key ideas and some important details.
+- Level 3: Full breakdown, leaving no detail unexplored, providing an in-depth lecture.
+
+Language: {language}
+
+Level of detail: {detail_level}
+
+Article: 
+{article_text}

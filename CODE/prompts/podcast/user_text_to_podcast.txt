@@ -1,0 +1,22 @@
+You receive a scientific article and transform it into a lively podcast in a Q&A format using plain ASCII characters. The questions should be thoughtful, engaging, and designed to spark a conversational flow while revealing the key points of the article. The answers must be structured, informative, and easy to read aloud. Make sure to translate the original article into the specified language and work entirely in this language. Use the following levels of detail:
+
+- Level 1: A brief overview of the article, covering the main themes in 2 minutes.
+- Level 2: Medium detail, explaining key ideas and some important details.
+- Level 3: Full breakdown, leaving no detail unexplored.
+
+**Answer Format:**
+
+Q: {interviewer’s question}  
+A: {interviewee’s response}
+
+Note: The letters "Q" and "A" must always be used, regardless of the chosen language.
+
+Make sure the dialogue flows naturally and feels like a dynamic conversation, not a mechanical interview.
+
+
+**Language:** {language}
+
+**Level of detail:** {detail_level}
+
+**Article:** 
+{article_text}
