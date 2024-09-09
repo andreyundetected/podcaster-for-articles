@@ -1,3 +1,3 @@
 language = "russian"
-output format(lecture/podcast) = "lecture"
-detail level(1/2/3)(1 - very brief description for 1.5 minutes, 2 - high-level description of ideas without formulas, 3 - precise description taking into account all the details) = 2
+output format(lecture/podcast) = "podcast"
+detail level(1/2/3)(1 - very brief description for 1.5 minutes 2 - high-level description of ideas without formulas 3 - precise description taking into account all the details) = 2

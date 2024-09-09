@@ -7,7 +7,7 @@ You receive a scientific article and transform it into a lively podcast in a Q&A
 **Answer Format:**
 
 Q: {interviewer’s question}  
-A: {interviewee’s response}
+A: {interviewee’s response, a person from the article team}
 
 Note: The letters "Q" and "A" must always be used, regardless of the chosen language.
 
